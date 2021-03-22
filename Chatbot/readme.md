@@ -1,5 +1,4 @@
 Repository of my ChatBot Projects for ML and DataScience 
 
-Chatbot/_1_a0e5cb51a2abd389271e248a8bfdc3e2.jpeg
 
 ![plot](Chatbot/_1_a0e5cb51a2abd389271e248a8bfdc3e2.jpeg)
